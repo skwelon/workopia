@@ -1,0 +1,16 @@
+{
+  "name": "skwelon/workopia",
+  "description": "simple job listing",
+  "authors": [
+    {
+      "name": "Name surname",
+      "email": "support@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
